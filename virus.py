@@ -3,8 +3,9 @@ import turtle
 from turtle import *
 # penspeed 100
 speed(100)
-#pencolor cyan
+# pencolor cyan
 color('cyan')
+# background color black
 bgcolor('black')
 b = 200
 while b > 0:
