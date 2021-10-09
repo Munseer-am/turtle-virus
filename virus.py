@@ -3,6 +3,7 @@ import turtle
 from turtle import *
 # penspeed 100
 speed(100)
+#pencolor cyan
 color('cyan')
 bgcolor('black')
 b = 200
