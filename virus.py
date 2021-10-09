@@ -1,6 +1,7 @@
 # importing required modules
 import turtle
 from turtle import *
+# penspeed 100
 speed(100)
 color('cyan')
 bgcolor('black')
