@@ -8,6 +8,7 @@ color('cyan')
 # background color black
 bgcolor('black')
 b = 200
+# creating virus shape
 while b > 0:
     left(b)
     forward(b * 3)
