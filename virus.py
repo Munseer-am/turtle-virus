@@ -1,5 +1,7 @@
 #! usr/bin/env python3
 
+__author__ = "Munseer.am"
+
 # importing required modules
 import turtle
 from turtle import *
