@@ -9,6 +9,7 @@ speed(100)
 
 # pencolor cyan
 color('cyan')
+
 # background color black
 bgcolor('black')
 b = 200
